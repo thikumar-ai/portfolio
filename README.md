@@ -8,7 +8,7 @@ I help software teams write documentation their users actually read.
 - [API Reference](./api-docs/sample-api.md)
 - [Getting Started Guide](./product-docs/getting-started.md)
 
-![Linkedin](/img/gsoc.presight.ai_app_knowledgegraph_main_(HD).png)
+![Linkedin]()
 Innovations
 - Stylechecker tool
 - Terminology Checker
